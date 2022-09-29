@@ -1,0 +1,7 @@
+telethon.sync
+requests
+re
+random
+sqlite3
+time
+oa
