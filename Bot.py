@@ -9,9 +9,9 @@ from time import sleep
 from os import chdir
 
 #################################
-api_id = '1234123' #your api_id
-api_hash = 'Sajjad Mobe' #your api_hash
-bot_token = '2003:Sajjad1404' #your bot token
+api_id = '15022546' #your api_id
+api_hash = 'e1b2ae2f067ffc53d5127882e76b5f60' #your api_hash
+bot_token = '5719950229:AAHVZgqywbwUlnOLTg5bbwzwl9AZHR_7oKI' #your bot token
 #################################
 
 class delete:
